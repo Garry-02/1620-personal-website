@@ -1,7 +1,25 @@
 *{
-    background-color: #F2CC8F;
-    
+    background-color: #E5DADA;
+    color: #002642;
+    font-family: 'Roboto Condensed', sans-serif;
 }
-h1 {
-    color:#3D405B; ;
+
+h1, h2 {
+    color:#02040F; 
+    margin: 1rem;
+}
+
+nav {
+    padding: 1rem;
+    border: 5px solid #E59500;
+}
+
+.list {
+    padding: 1rem;
+    border: 5px solid #E59500;
+    margin: 1rem;
+}
+
+p, li, img {
+    margin: 1rem;
 }
