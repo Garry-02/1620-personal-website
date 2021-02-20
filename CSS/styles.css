@@ -10,6 +10,8 @@ h1, h2 {
 }
 
 nav {
+    position : fixed;
+    top : 0rem; left : 50rem;
     padding: 1rem;
     border: 5px solid #E59500;
 }
@@ -20,6 +22,18 @@ nav {
     margin: 1rem;
 }
 
+ul li {
+    display : inline;
+}
+
 p, li, img {
     margin: 1rem;
 }
+
+img {
+    height: 150px;
+    width: 125px;
+    float : left;
+}
+
+
